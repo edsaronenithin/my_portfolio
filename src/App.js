@@ -51,7 +51,7 @@ const Portfolio = () => {
 
       {/* Projects Section */}
       <section className="projects-section">
-        <h2 className="section-title">Projects</h2>
+        <h2 className="section-title">Projects </h2>
         <div className="projects-grid">
           <div className="project-card">
             <h3 className="project-title">Search Countries</h3>
