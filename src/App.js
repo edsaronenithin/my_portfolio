@@ -24,7 +24,7 @@ const Portfolio = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
         >
-          EdDSARONE NITHIN
+          EDSARONE NITHIN
         </motion.h1>
         <motion.p
           className="header-subtitle"
@@ -81,7 +81,7 @@ const Portfolio = () => {
 
       {/* Contact Section */}
       <section id="contact" className="contact-section">
-        <h2 className="section-title">Contact Me</h2>
+        <h2 className="contact-title">Contact Me</h2>
         <div className="contact-links">
           <a
             href="https://github.com/edsaronenithin"
